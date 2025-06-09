@@ -1,1 +1,1 @@
-# Trabalho-Conjunto
+# TrabalhoConjunto
